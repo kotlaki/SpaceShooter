@@ -1,0 +1,48 @@
+
+newMainButton.png
+size: 512,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+btnExit
+  rotate: false
+  xy: 2, 14
+  size: 234, 234
+  orig: 234, 234
+  offset: 0, 0
+  index: -1
+btnPause
+  rotate: false
+  xy: 238, 219
+  size: 157, 157
+  orig: 157, 157
+  offset: 0, 0
+  index: -1
+btnPlay
+  rotate: false
+  xy: 2, 250
+  size: 234, 256
+  orig: 234, 256
+  offset: 0, 0
+  index: -1
+music
+  rotate: false
+  xy: 238, 378
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+sound
+  rotate: false
+  xy: 238, 89
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 2, 2
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
